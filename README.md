@@ -1,4 +1,4 @@
-# Ecommerce Startup Dashboard 
+# Startup Growth & Conversion Dashboard 
 ### PM + Analyst Portfolio Project | Power BI + DAX
 
 ![Dashboard](dashboard_screenshot.png)
